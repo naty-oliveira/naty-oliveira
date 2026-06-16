@@ -2,7 +2,7 @@
 
 **`Desenvolvedora em formação`**
 
-Meu nome é Natalia da Cunha de Oliveira, tenho 18 anos e sou natural de Santa Catarina. Atualmente, estou cursando Ciência da Computação na UFFS.
+Meu nome é Natalia da Cunha de Oliveira, tenho 18 anos e sou natural de Santa Catarina. Atualmente, estou cursando Ciência da Computação na UFFS. Sou formada em desenho pela Escola de Artes de Chapecó e em tatuagem pela Augusta Tatua.
 
 - 🎓 Cursando Ciência da Computação na UFFS
 - 💻 Atualmente estudando Python e Desenvolvimento Web
